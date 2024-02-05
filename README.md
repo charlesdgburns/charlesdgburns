@@ -8,4 +8,4 @@
 
 - 🔭 I’m currently working on grid cell representations of complex mazes, modelling predictions ahead of data collection.
 
-- 📫 How to reach me: charlesdgburns@gmail.com
+- 📫 reach out: charlesdgburns@gmail.com
