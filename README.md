@@ -1,6 +1,6 @@
 # Ahoy! I go by Charles.
 
-## I'm currently studying an MSc in Neuroscience, having previously graduated with a joint degree in Maths and Psychology.
+## I'm currently studying an MSc in Neuroscience, having recently graduated with a joint degree in Maths and Psychology.
 
 ## Fascinated by how information is represented in the brain and artificial neural networks.
 
