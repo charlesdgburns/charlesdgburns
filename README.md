@@ -1,8 +1,5 @@
 ### Ahoy! 
 
-<!--
-**charlesdgburns/charlesdgburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm currently studying an MSc in Neuroscience, having previously graduated with a joint degree in Maths and Psychology.
 Fascinated by how information is represented in the brain and artificial neural networks.
 
