@@ -6,6 +6,6 @@
 
 ## Keen on implementing reproducible and reliable data analyses to wider problems.
 
-- 🔭 I’m currently working on grid cell representations of complex mazes, modelling predictions ahead of data collection.
+- 🔭 I’m currently working on modelling the active visual system.
 
 - 📫 reach out: charlesdgburns@gmail.com
