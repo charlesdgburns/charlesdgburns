@@ -1,6 +1,6 @@
 # Ahoy! I go by Charles.
 
-## I'm currently changing careers to combat climate change
+## I'm currently changing careers to combat climate change 🍃
 
 ## I've recently been working as a research assistant at [Cognitive Circuits lab](https://www.psy.ox.ac.uk/research/cognitive-circuits), after finishing an MSc in Neuroscience.
 
